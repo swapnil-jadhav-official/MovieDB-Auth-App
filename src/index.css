@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* background-color: rgb(15, 15, 15); */
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
